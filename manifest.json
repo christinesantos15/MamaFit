@@ -1,0 +1,21 @@
+{
+  "name": "MamaFit Workout",
+  "short_name": "MamaFit",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#e3f2fd",
+  "theme_color": "#2196f3",
+  "description": "Coach Mark's Cuts and Curves Program[cite: 1]",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
